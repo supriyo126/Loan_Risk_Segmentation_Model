@@ -1,5 +1,6 @@
 # Loan Default Risk Segmentation & Actionability Dashboard
 This project simulates a real-world credit risk analysis pipeline for financial institutions. Using fully synthetic data (to avoid privacy concerns), it demonstrates how credit analysts can:
+
 	•	Generate realistic borrower data with loan, income, credit score, and risk attributes.
 	•	Visualize risk patterns across credit scores, loan types, city tiers, and debt-to-income levels.
 	•	Train predictive models (Logistic Regression and Random Forest) to estimate default probabilities.
